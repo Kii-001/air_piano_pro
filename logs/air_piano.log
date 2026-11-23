@@ -1,0 +1,151 @@
+2026-11-23 22:30:51,791 [INFO] 🎹 Air Piano Pro starting...
+2026-11-23 22:30:51,902 [INFO] Python 3.12.6
+2026-11-23 22:30:55,067 [INFO] ✅ Kamera OK: 1280x720
+2026-11-23 22:30:55,105 [INFO] Tekan 'Q' untuk keluar...
+2026-11-23 22:33:12,730 [INFO] 🔊 Inisialisasi AudioEngine...
+2026-11-23 22:33:14,102 [INFO]    pygame.mixer OK: (44100, -16, 2)
+2026-11-23 22:33:14,104 [INFO]    Channels: 32
+2026-11-23 22:33:14,721 [INFO] ✅ AudioEngine siap: 24 nada
+2026-11-23 22:33:37,054 [INFO]    Volume set: 0.10
+2026-11-23 22:33:37,554 [INFO]    Volume set: 0.30
+2026-11-23 22:33:38,057 [INFO]    Volume set: 0.50
+2026-11-23 22:33:38,561 [INFO]    Volume set: 0.80
+2026-11-23 22:33:39,064 [INFO]    Volume set: 0.35
+2026-11-23 22:33:39,109 [INFO] 🔊 AudioEngine cleanup done
+2026-11-23 22:35:54,979 [INFO] ✅ Kamera: 1280x720
+2026-11-23 22:35:54,979 [INFO] ✋ Inisialisasi HandTracker...
+2026-11-23 22:35:55,073 [INFO] ✅ HandTracker siap (max 2 tangan)
+2026-11-23 22:36:56,930 [INFO] ✋ HandTracker cleanup done
+2026-11-23 22:36:57,481 [INFO] Test selesai
+2026-11-23 22:38:44,466 [INFO] 🎨 PianoRenderer: 14 putih + 10 hitam @ 432-720
+2026-11-23 22:39:33,888 [INFO] Test selesai
+2026-11-23 22:41:12,268 [INFO] 🔄 Game reset (mode: free)
+2026-11-23 22:41:12,269 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:41:12,785 [INFO] 🔄 Game reset (mode: free)
+2026-11-23 22:41:12,785 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:41:14,491 [INFO] 🔄 Game reset (mode: song)
+2026-11-23 22:41:14,491 [INFO] 🎮 GameState init (mode: song)
+2026-11-23 22:41:14,492 [INFO] 🔄 Game reset (mode: song)
+2026-11-23 22:41:14,493 [INFO] 🎮 GameState init (mode: song)
+2026-11-23 22:41:14,495 [INFO] 💀 GAME OVER! Score: 0, Combo: 0
+2026-11-23 22:41:14,516 [INFO] 🔄 Game reset (mode: song)
+2026-11-23 22:41:14,521 [INFO] 🎮 GameState init (mode: song)
+2026-11-23 22:41:14,522 [INFO] 🔄 Game reset (mode: song)
+2026-11-23 22:41:14,522 [INFO] 🎮 GameState init (mode: song)
+2026-11-23 22:41:14,526 [INFO] 🏆 Highscore baru! Score: 65, Combo: 5, Acc: 100.0%
+2026-11-23 22:41:14,546 [INFO] 🔄 Game reset (mode: free)
+2026-11-23 22:41:14,546 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:41:14,547 [INFO] 🔄 Game reset (mode: song)
+2026-11-23 22:41:14,547 [INFO] 🎮 Mode ganti ke: song
+2026-11-23 22:43:15,030 [INFO] 🎼 SongLoader: 5 lagu bawaan, folder: C:\Users\Lenovo\Desktop\air_piano_pro\assets\songs
+2026-11-23 22:43:15,078 [INFO]    Loaded from file: happy_birthday (25 notes)
+2026-11-23 22:43:15,100 [INFO]    Loaded from file: jingle_bells (25 notes)
+2026-11-23 22:43:15,116 [INFO]    Loaded from file: mary_lamb (26 notes)
+2026-11-23 22:43:15,140 [INFO]    Loaded from file: ode_to_joy (30 notes)
+2026-11-23 22:43:15,159 [INFO]    Loaded from file: twinkle (42 notes)
+2026-11-23 22:43:15,161 [WARNING]    Lagu tidak ditemukan: lagu_tidak_ada
+2026-11-23 22:45:19,457 [INFO] 🎹 Inisialisasi Air Piano Pro...
+2026-11-23 22:45:20,114 [INFO] ✅ Kamera: 1280x720
+2026-11-23 22:45:20,114 [INFO] 🔊 Inisialisasi AudioEngine...
+2026-11-23 22:45:20,512 [INFO]    pygame.mixer OK: (44100, -16, 2)
+2026-11-23 22:45:20,513 [INFO]    Channels: 32
+2026-11-23 22:45:20,532 [INFO] ✅ AudioEngine siap: 24 nada
+2026-11-23 22:45:20,533 [INFO] ✋ Inisialisasi HandTracker...
+2026-11-23 22:45:20,555 [INFO] ✅ HandTracker siap (max 2 tangan)
+2026-11-23 22:45:20,573 [INFO] 🎨 PianoRenderer: 14 putih + 10 hitam @ 432-720
+2026-11-23 22:45:20,592 [INFO] 🔄 Game reset (mode: free)
+2026-11-23 22:45:20,593 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:45:20,595 [INFO] 🎼 SongLoader: 5 lagu bawaan, folder: C:\Users\Lenovo\Desktop\air_piano_pro\assets\songs
+2026-11-23 22:45:20,779 [INFO] ✅ Air Piano Pro siap! Tekan Q untuk keluar.
+2026-11-23 22:46:38,322 [INFO] Quit dipencet
+2026-11-23 22:46:38,324 [INFO] 🏆 Highscore baru! Score: 501, Combo: 12, Acc: 100.0%
+2026-11-23 22:46:38,329 [INFO] 🧹 Cleanup...
+2026-11-23 22:46:38,365 [INFO] 🔊 AudioEngine cleanup done
+2026-11-23 22:46:38,379 [INFO] ✋ HandTracker cleanup done
+2026-11-23 22:46:38,809 [INFO] ✅ Selesai. Terima kasih!
+2026-11-23 22:51:50,761 [INFO] 🎹 Inisialisasi Air Piano Pro...
+2026-11-23 22:51:51,502 [INFO] ✅ Kamera: 1280x720
+2026-11-23 22:51:51,502 [INFO] ✅ Render: 1366x768
+2026-11-23 22:51:51,503 [INFO] 🔊 Inisialisasi AudioEngine...
+2026-11-23 22:51:52,225 [INFO]    pygame.mixer: (44100, -16, 2)
+2026-11-23 22:51:52,288 [INFO] ✅ AudioEngine siap: 24 nada
+2026-11-23 22:51:52,295 [INFO] ✋ Inisialisasi HandTracker...
+2026-11-23 22:51:52,406 [INFO] ✅ HandTracker siap (max 2 tangan)
+2026-11-23 22:51:52,412 [INFO] 🎨 PianoRenderer: 14 putih + 10 hitam @ 499-767 (1366x768)
+2026-11-23 22:51:52,448 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:51:52,450 [INFO] 🎼 SongLoader: 5 lagu bawaan
+2026-11-23 22:51:52,722 [INFO] ✅ Fullscreen aktif
+2026-11-23 22:51:52,821 [INFO] ✅ Air Piano Pro siap!
+2026-11-23 22:53:16,606 [INFO] 🧹 Cleanup...
+2026-11-23 22:53:16,772 [INFO] 🔊 AudioEngine cleanup
+2026-11-23 22:53:16,805 [INFO] ✋ HandTracker cleanup
+2026-11-23 22:53:17,288 [INFO] ✅ Selesai.
+2026-11-23 22:54:43,219 [INFO] 🎹 Inisialisasi Air Piano Pro...
+2026-11-23 22:54:43,951 [INFO] ✅ Kamera: 1280x720
+2026-11-23 22:54:43,952 [INFO] ✅ Render: 1366x768
+2026-11-23 22:54:43,952 [INFO] 🔊 Inisialisasi AudioEngine...
+2026-11-23 22:54:44,203 [INFO]    pygame.mixer: (44100, -16, 2)
+2026-11-23 22:54:44,232 [INFO] ✅ AudioEngine siap: 24 nada
+2026-11-23 22:54:44,232 [INFO] ✋ Inisialisasi HandTracker...
+2026-11-23 22:54:44,286 [INFO] ✅ HandTracker siap (max 2 tangan)
+2026-11-23 22:54:44,287 [INFO] 🎨 PianoRenderer: 14 putih + 10 hitam @ 499-767 (1366x768)
+2026-11-23 22:54:44,323 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:54:44,344 [INFO] 🎼 SongLoader: 5 lagu bawaan
+2026-11-23 22:54:44,605 [INFO] ✅ Fullscreen aktif
+2026-11-23 22:54:44,803 [INFO] ✅ Air Piano Pro siap!
+2026-11-23 22:55:23,721 [INFO] 💀 GAME OVER! Score: 0
+2026-11-23 22:55:33,485 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:33,818 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:34,118 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:34,423 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:34,792 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:35,222 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:35,645 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:35,890 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:36,135 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:36,382 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:36,610 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:36,840 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:37,075 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:37,302 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:37,543 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:37,775 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:37,988 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:38,225 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:38,459 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:38,664 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:38,866 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:39,086 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:39,311 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:39,501 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:39,705 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:39,925 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:40,159 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:40,366 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:40,569 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:40,772 [INFO] 🎉 Lagu selesai!
+2026-11-23 22:55:40,963 [INFO] 🧹 Cleanup...
+2026-11-23 22:55:41,007 [INFO] 🔊 AudioEngine cleanup
+2026-11-23 22:55:41,043 [INFO] ✋ HandTracker cleanup
+2026-11-23 22:55:41,601 [INFO] ✅ Selesai.
+2026-11-23 22:55:57,785 [INFO] 🎹 Inisialisasi Air Piano Pro...
+2026-11-23 22:55:58,346 [INFO] ✅ Kamera: 1280x720
+2026-11-23 22:55:58,346 [INFO] ✅ Render: 1366x768
+2026-11-23 22:55:58,347 [INFO] 🔊 Inisialisasi AudioEngine...
+2026-11-23 22:55:58,605 [INFO]    pygame.mixer: (44100, -16, 2)
+2026-11-23 22:55:58,634 [INFO] ✅ AudioEngine siap: 24 nada
+2026-11-23 22:55:58,635 [INFO] ✋ Inisialisasi HandTracker...
+2026-11-23 22:55:58,660 [INFO] ✅ HandTracker siap (max 2 tangan)
+2026-11-23 22:55:58,708 [INFO] 🎨 PianoRenderer: 14 putih + 10 hitam @ 499-767 (1366x768)
+2026-11-23 22:55:58,739 [INFO] 🎮 GameState init (mode: free)
+2026-11-23 22:55:58,741 [INFO] 🎼 SongLoader: 5 lagu bawaan
+2026-11-23 22:55:58,977 [INFO] ✅ Fullscreen aktif
+2026-11-23 22:55:59,021 [INFO] ✅ Air Piano Pro siap!
+2026-11-23 22:56:17,779 [INFO] 💀 GAME OVER! Score: 0
+2026-11-23 22:56:36,331 [INFO] 💀 GAME OVER! Score: 0
+2026-11-23 22:56:50,361 [INFO] 💀 GAME OVER! Score: 0
+2026-11-23 22:57:05,497 [INFO] 💀 GAME OVER! Score: 0
+2026-11-23 22:57:13,385 [INFO] 🧹 Cleanup...
+2026-11-23 22:57:13,435 [INFO] 🔊 AudioEngine cleanup
+2026-11-23 22:57:13,453 [INFO] ✋ HandTracker cleanup
+2026-11-23 22:57:13,861 [INFO] ✅ Selesai.
